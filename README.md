@@ -1,5 +1,7 @@
-**Search Engine and Information Retrieval**
+# SEIR Project 2026
 
-This repository contains all the projects related to SEIR.
+## Search Engine and Information Retrieval
+
+This repository contains all the projects related to the **Search Engine and Information Retrieval (SEIR)** course.
 
 
